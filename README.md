@@ -1,2 +1,2 @@
-# xv6_-
- xv6_notes
+# xv6-notes
+something about the xv6.
